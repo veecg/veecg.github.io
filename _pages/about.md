@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Z.Zhang"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 I am Zhaowei Zhang, a contemplative data scientist inspired by data story telling. Recently graduated with a master in electrical engineering from McGill University, my research mainly revolves around utilizing deep learning on graphs to improve performance of recommender systems.
 
 Random Facts About Me
