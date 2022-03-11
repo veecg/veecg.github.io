@@ -18,9 +18,9 @@ Outside of my research, I also enjoyed learning everything I could about data an
 
 Random Facts About Me
 ======
-* I am inspired by data storytelling and believe that additions of visualization can help make the story complete in one's mind. 
+* I love data storytelling and believe that additions of visualization can help make the story complete in one's mind. 
 * My favorite chilhood book is "Harry Potter and the Sorcerer's Stone".
-* An everyday team drinker.
+* An everyday tea drinker.
 
 
 
