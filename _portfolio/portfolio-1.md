@@ -1,6 +1,6 @@
 ---
 title: "MIA"
-excerpt: "A multi-view item side information enhanced recommendation algorithm<br/><img src='/images/mia.svg' width='200'>"
+excerpt: "A multi-view item side information enhanced recommendation algorithm<br/><img src='/images/mia.svg' width='400'>"
 collection: portfolio
 ---
 MIA: Mutual information alignment for side information-enhanced recommendation with multiple views
