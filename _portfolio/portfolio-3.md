@@ -2,17 +2,16 @@
 title: "Team Performance Dashboard"
 excerpt: "A tableau dashboard designed to provide business team with timely, relevant, and accurate sales and team performance data to support day-to-day business.  <br/><img src='/images/dashboard.png' width=500>"
 collection: portfolio
-date: 2022-02-15
 ---
 
- #  Background
+#  Background
 A retailer company named *Vivian* (Yes, it is named after its founder) with a Concierge team providing professional customer service through phone calls, online chats and emails.
 
 # Objective
 Provide the business team with an overview of key metrics for Sales, Call Volumes, Average Handle Times, Hold Times, and # of Customer Interactions Handled.
 
 # Dashboard overview
-This interactive dashboard can be accessed on [Tableau public]((https://public.tableau.com/views/Aritzia_DA_Assesement/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)). 
+This interactive dashboard can be accessed on [Tableau public](https://public.tableau.com/views/TeamPerformanceOverview/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link). 
 
 ![dashboard](/images/dashboard.png)
 

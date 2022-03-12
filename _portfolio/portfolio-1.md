@@ -2,7 +2,6 @@
 title: "MIA"
 excerpt: "A multi-view item side information enhanced recommendation algorithm<br/><img src='/images/mia.svg' width='500'>"
 collection: portfolio
-date: 2021-12-01
 ---
 **MIA** is a side information-enhanced recommender system named after its most innovative component, the Mutual Information-based Alignment metric, as shown in the system architecture. It is designed to better digest side information provided to a recommender system along with the user interaction history. 
 
